@@ -6,10 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 React Components:
 
-Login.js - This component is to show login button
-Home.js - This is the page the app, redirects to after successful authentication
-PrivateRoute.js - This will check if the user is authenticated or not, it will block non authenticated users to access my home page
-authConfig.js - Oauth configurations like client id, Replace with your own client and Tenent ID congigurations or use ENV variables.
+Login.js - This component is to show login button.\
+Home.js - This is the page the app, redirects to after successful authentication.\
+PrivateRoute.js - This will check if the user is authenticated or not, it will block non authenticated users to access my home page.\
+authConfig.js - Oauth configurations like client id, Replace with your own client and Tenent ID congigurations or use ENV variables.\
 
 
 ## Available Scripts
